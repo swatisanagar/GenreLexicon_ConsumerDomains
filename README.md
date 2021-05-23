@@ -24,7 +24,7 @@ This lexicon contain Genre_based_Lexicon applicable to any domain from consumer 
 The polarity seed words is set of 35 positive and 35 negative seed words which are applicable to consumer review domains.
 
 <h1>How to use</h1>
-The Sentiment lexicons can be downlaoded and used directly. It is learned using consumer review domains and the sentiment words are in lemmatized form. To know more about the preprocessing details [check here.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9126775)
+The Sentiment lexicons can be downlaoded and used directly. It is learned using consumer review domains and the sentiment words are in lemmatized form. To know more about the preprocessing details check [here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9126775)
 
 <h1>Cite the follwoing papers</h1>
 Cite the following paper depending on the use.
