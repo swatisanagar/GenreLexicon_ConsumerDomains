@@ -8,7 +8,9 @@ The set of sentiment lexicons are created as a part of research work by Swati Sa
   
 <h3>Genre-based Learning</h3>
    *Details in video
-   
+   [link to Google!]<http://google.com>
+   [link to Google!](http://google.com)
+   [link to Google!]:http://google.com
 <h1>The Contributions</h1>
 The contribution includes research work conducted and presented across different publications. 
 
