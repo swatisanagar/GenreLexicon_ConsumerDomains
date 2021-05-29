@@ -10,9 +10,9 @@ The set of sentiment lexicons are created as a part of research work by Swati Sa
 
 <h1>The Contributions</h1>
 The contribution includes research work conducted and presented across different publications. 
-  \*The Multidomain Sentiment Lexicon includes ready to use consumer review domain lexicons.
-  \*The Genre-based Combined Sentiment Lexicon contain meta-genre-based lexicon, a seed sentiment lexicon.
-  \*The genre-seed word, a polarity seed-set
+    \*The Multidomain Sentiment Lexicon includes ready to use consumer review domain lexicons.
+    \*The Genre-based Combined Sentiment Lexicon contain meta-genre-based lexicon, a seed sentiment lexicon.
+    \*The genre-seed word, a polarity seed-set
 
 
 <h2>The Multidomains Sentiment Lexicons</h2>
