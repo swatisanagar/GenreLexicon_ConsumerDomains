@@ -1,7 +1,7 @@
 <h1>Genre Sentiemnt Lexicon Resources</h1>
 
 This sentiment lexicon to be used for sentiment analysis in English for Consumer review domains.
-The set of sentiment lexicons are created as a part of research work by Swati Sanagar and her thesis advisor Dr.Deepa Gupta using Genre-based approach.
+The set of sentiment lexicons are created as a part of research work by Swati Sanagar and her thesis advisor [Dr.Deepa Gupta](https://www.amrita.edu/faculty/dr-deepa-gupta) using Genre-based approach.
 <h1>What's the Genre-based Sentiemnt Lexicon Learning</h1>
 <h3>A brief explaination about the Genre-based snetiment lexicon is given below.</h3>
   *Sentiment lexicon the ready-to use resource. The general purpose sentiment lexicons are observed inefficeint in domain-based work whereas domain-based efficient sentiment lexison learning demands labeled data for every new domain. We present a genre-based approach to learn sentiment lexicon at genre-level. The genre-based process learns meta knowlege from preselected source domains. The meta-knowledge is used for learning multiple sentiment lexicon under the genre.
@@ -9,10 +9,10 @@ The set of sentiment lexicons are created as a part of research work by Swati Sa
 <h3>Genre-based Learning</h3>
    *Details in video
    
-   [link to Google!]<http://google.com>
-   [link to Google!](http://google)
-   [link to Google!]:http://google.com
    
+   [link to Google!](http://google)
+   
+      
 <h1>The Contributions</h1>
 The contribution includes research work conducted and presented across different publications. 
 
